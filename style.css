@@ -9,5 +9,5 @@ th, td {
   brother: 1px solid black;
 }
 
-table {
+table {brother-collapse: collapse;}
   
